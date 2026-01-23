@@ -1,0 +1,46 @@
+
+   {
+
+  "product" : [
+        {
+            "id" : "1",
+            "brand" : "Indolink",
+            "productName" : "INDOLINK-Servo Stabilizer 5KVA Three Phase (3:3)",
+            "category" : "Servo Stabilizer",
+            "image" : "../photos/Product/servo-stabilizer.png",
+            "price" : "24,000.00",
+            "rating" : "5.0"
+        },
+
+        {
+            "id" : "1",
+            "brand" : "Indolink",
+            "productName" : "INDOLINK-Servo Stabilizer 5KVA Single Phase (1:1)",
+            "category" : "Servo Stabilizer",
+            "image" : "../photos/Product/servo-stabilizer-sm.png",
+            "price" : "12,499.00",
+            "rating" : "5.0"
+        },
+     
+
+      {
+            "id" : "2",
+            "brand" : "HITACHI",
+            "productName" : "HITACHI-HIREL-Online UPS IP11-1 KVA/36V Pure Sine Wave with in-Built Batteries",
+            "category" : "Online UPS",
+            "image" : "../photos/Product/hitachi-online-ip11-1v.jpg",
+            "price" : "18,000.00",
+            "rating" : "5.0"
+        },
+        
+       {
+            "id" : "3",
+            "brand" : "APC",
+            "productName" : "APC Back-UPS BX600C-IN 600VA / 360W, 230V, UPS System, an Ideal Power Backup & Protection",
+            "category" : "Offline UPS",
+            "image" : "../photos/Product/APC Back-UPS BX600C.jpg",
+            "price" : "3,619.00",
+            "rating" : "5.0"
+        }
+       ] 
+  } 
