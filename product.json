@@ -5,7 +5,7 @@
             "brand" : "Indolink",
             "productName" : "INDOLINK-Servo Stabilizer 5KVA Three Phase (3:3)",
             "category" : "Servo Stabilizer",
-            "image" : "../photos/Product/servo-stabilizer.png",
+            "image" : "../photos/Product/servo-stabilizer-3p.png",
             "price" : "24,000.00",
             "rating" : "5.0"
         },
@@ -15,7 +15,7 @@
             "brand" : "Indolink",
             "productName" : "INDOLINK-Servo Stabilizer 5KVA Single Phase (1:1)",
             "category" : "Servo Stabilizer",
-            "image" : "../photos/Product/servo-stabilizer-sm.png",
+            "image" : "../photos/Product/indolink-servo-stabilizer-5kav(1-1).jpg",
             "price" : "12,499.00",
             "rating" : "5.0"
         },
