@@ -1,1 +1,8 @@
-
+[
+        {
+            "id" : "1",
+            "name" : "arnab",
+            "email" : "arnab@gmail.com",
+            "password" : "1234",
+        }
+]
